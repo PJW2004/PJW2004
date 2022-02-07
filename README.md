@@ -1,3 +1,3 @@
-### Hello I'm JeongWon 👋
+### Hello, I'm JeongWon 👋
 
 
