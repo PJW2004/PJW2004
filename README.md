@@ -11,4 +11,4 @@
 
 ### Things I code with
 [![Solved.ac
-smokinggun](http://mazassumnida.wtf/api/v2/generate_badge?boj={handle})](https://solved.ac/{handle})
+smokinggun](http://mazassumnida.wtf/api/v2/generate_badge?boj={smokinggun})](https://solved.ac/{smokinggun})
