@@ -13,4 +13,4 @@
 
 ### Things I code with
 - Programming : <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=Python&logoColor=white">
-- FrameWork : <img src="https://img.shields.io/badge/FastAPI-009688?style=for-the-badge&logo=Fastapi&logoColor=white">
+- FrameWork : <img src="https://img.shields.io/badge/FastAPI-009688?style=for-the-badge&logo=Fastapi&logoColor=white"><img src="https://img.shields.io/badge/Pandas-150458?style=for-the-badge&logo=pandas&logoColor=white">
