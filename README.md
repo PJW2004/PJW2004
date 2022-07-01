@@ -7,7 +7,7 @@
 ##### 모험가 <br> 모험을 즐기는 모험가 처럼 실행해보고자 하는 마음이 생기는 일이 있으면 준비를 많이 하기보다는 빠르게 생각하고, 행동하여 실행하는 사람입니다.
 
 [![Solved.ac
-smokinggun](http://mazassumnida.wtf/api/v2/generate_badge?boj={handle})](https://solved.ac/profile/{smokinggun})
+smokinggun](http://mazassumnida.wtf/api/v2/generate_badge?boj={handle})](https://solved.ac/{handle})
 
 ### Project
 - [csv데이터 자동 table구축 및 insert프로그램](https://github.com/PJO2004/CSVfile_upload)
