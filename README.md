@@ -9,3 +9,5 @@
 ### Project
 - [csv데이터 자동 table구축 및 insert프로그램](https://github.com/PJO2004/CSVfile_upload)
 
+### Things I code with
+[![smokinggun](http://mazassumnida.wtf/api/v2/generate_badge?boj={handle})](https://solved.ac/{handle})
