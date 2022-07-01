@@ -13,4 +13,4 @@
 - 헬스 데이터 프레임 워크 구축 (csv데이터 자동 table구축 및 insert프로그램)
 - GitLink : https://github.com/PJO2004/CSVfile_upload
 - Motive
-- - 치매 예측을 하는 AI를 개발하기 전에 AI를 모델링 하기 위한 데이터를 얻기 위해 실제 의료 데이터를 받아 CSV데이터를 실시간 table처리 및 DB에 insert하는 프로그램을 개발하기로 하였습니다.
+-   치매 예측을 하는 AI를 개발하기 전에 AI를 모델링 하기 위한 데이터를 얻기 위해 실제 의료 데이터를 받아 CSV데이터를 실시간 table처리 및 DB에 insert하는 프로그램을 개발하기로 하였습니다.
