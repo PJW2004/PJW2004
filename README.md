@@ -12,4 +12,4 @@
 - [csv데이터 자동 table구축 및 insert프로그램](https://github.com/PJO2004/CSVfile_upload)
 
 ### Things I code with
-<img src="https://img.shields.io/badge/쓰고자하는_텍스트-컬러코드?style=flat-square&logo=simpleicons에서_아이콘이름&logoColor=white"/></a>&nbsp 
+Programming : <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=Python&logoColor=white">
