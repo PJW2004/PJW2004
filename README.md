@@ -13,7 +13,7 @@
 
 
 [![olved.ac smokinggun](http://mazassumnida.wtf/api/v2/generate_badge?boj=smokinggun)](https://solved.ac/smokinggun)
-[![CodeForces Profile](https://cf.leed.at?id=25d38ab69a646dcbcc027e021e22f233)](https://codeforces.com/profile/25d38ab69a646dcbcc027e021e22f233)
+[![CodeForces Profile](https://cf.leed.at?id=25d38ab69a646dcbcc027e021e22f233)](https://codeforces.com/profile/smokinggun)
 
 ### Project
 - [csv데이터 자동 table구축 및 insert프로그램](https://github.com/PJO2004/CSVfile_upload)
