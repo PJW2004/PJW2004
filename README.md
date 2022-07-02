@@ -12,7 +12,7 @@
 - 백준
 
 
-[![olved.ac smokinggun](http://mazassumnida.wtf/api/v2/generate_badge?boj=smokinggun)](https://solved.ac/smokinggun)
+[![olved.ac test](http://mazassumnida.wtf/api/v2/generate_badge?boj=smokinggun)](https://solved.ac/smokinggun)
 [![CodeForces smokinggun](https://cf.leed.at?id=Newbie)](https://codeforces.com/profile/smokinggun)
 
 ### Project
