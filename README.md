@@ -7,7 +7,7 @@
 ##### 모험가 <br> 모험을 즐기는 모험가 처럼 실행해보고자 하는 마음이 생기는 일이 있으면 준비를 많이 하기보다는 빠르게 생각하고, 행동하여 실행하는 사람입니다.
 
 
-[![PJO2004](https://github-readme-stats.vercel.app/api/top-langs/?username=anuraghazra&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=PJO2004&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
 
 
 - 백준
