@@ -13,6 +13,7 @@
 
 
 [![solved.ac smokinggun](http://mazassumnida.wtf/api/v2/generate_badge?boj=smokinggun)](https://solved.ac/smokinggun)
+![mazandi smokinggun](http://mazandi.herokuapp.com/api?handle=smokinggun&theme=dark)
 
 ### Project
 - [csv데이터 자동 table구축 및 insert프로그램](https://github.com/PJO2004/CSVfile_upload)
