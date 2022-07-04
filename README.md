@@ -12,7 +12,8 @@
 - 백준
 
 
-[![solved.ac smokinggun](http://mazassumnida.wtf/api/v2/generate_badge?boj=smokinggun)](https://solved.ac/smokinggun)
+[![Solved.ac
+smokinggun](http://mazassumnida.wtf/api/v2/generate_badge?boj=smokinggun)](https://solved.ac/smokinggun)
 ![mazandi smokinggun](http://mazandi.herokuapp.com/api?handle=smokinggun&theme=dark)
 
 ### Project
