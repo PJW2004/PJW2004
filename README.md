@@ -18,6 +18,7 @@ smokinggun](http://mazassumnida.wtf/api/v2/generate_badge?boj=smokinggun)](https
 
 ### Project
 - [csv데이터 자동 table구축 및 insert프로그램](https://github.com/PJO2004/CSVfile_upload)
+- [수면 건강 아이디어 공모전](https://github.com/PJO2004/sleep_tech)
 
 ### Things I code with
 - Programming : <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=Python&logoColor=white">
