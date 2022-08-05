@@ -18,6 +18,8 @@ without looking at the solution in front of us.</p>
 <p>흥미롭고 해결하고 싶은 문제가 있으면 끊임없이 고민하고 해결책을 제시합니다.
 <br> If there is a problem that is interesting and you want to solve, we constantly think about it and come up with a solution.</p>
 
+<hr>
+
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=PJO2004&show_icons=true&theme=radical)
 
 - 백준
