@@ -10,9 +10,9 @@ Pioneer <br> When trying to achieve a single goal, we aim to find a new way by
 without looking at the solution in front of us.
 </p>
 
-<p>연구원 <br> 흥미롭고 해결하고 싶은 문제가 있으면 끊임없이 고민하고 해결책을 제시합니다.
-<br>
-researcher <br> If there is a problem 
+#### researcher(연구원)
+<p>흥미롭고 해결하고 싶은 문제가 있으면 끊임없이 고민하고 해결책을 제시합니다.
+<br> If there is a problem 
 that is interesting and you want to solve, we constantly think about it and come up with a solution.
 </p>
 
