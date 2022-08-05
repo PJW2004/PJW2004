@@ -4,8 +4,8 @@
 ### 👉 About-Me
 #### 좀더 많은것을 배우고 정확하게 배우고 싶어하는 개발자 입니다 🔥
 
-<div style="float:left;">test</div>
-<div style="float:right;">t2est</div>
+<span style="float:left;">test</span>
+<span style="float:right;">t2est</span>
 
 <p align="left">개척자 <br> 하나의 목표를 달성하려 할 때, 눈앞의 해법을 보지 않고 현장의 시작부터 연구하여 새로운 길을 찾는것을 목표로 합니다.</p>
 <p align="Right">Pioneer <br> When trying to achieve a single goal, 
