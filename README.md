@@ -4,8 +4,8 @@
 ### 👉 About-Me
 #### 좀더 많은것을 배우고 정확하게 배우고 싶어하는 개발자 입니다 🔥
 
-<span style="float:left;">개척자</span>
-<span style="float:right;">Pioneer <br> When trying to achieve a single goal, 
+<span style="width:50%;">개척자 <br> 하나의 목표를 달성하려 할 때, 눈앞의 해법을 보지 않고 현장의 시작부터 연구하여 새로운 길을 찾는것을 목표로 합니다.</span>
+<span style="width:50%;">Pioneer <br> When trying to achieve a single goal, 
 we aim to find a new way by 
 studying the beginning of the field 
 without looking at the solution in 
