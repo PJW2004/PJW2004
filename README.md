@@ -1,5 +1,13 @@
 # Hello, I'm JeongWon 🖥
 
+#### Think and Sloution
+<p>My motto is "Thinking about problems, 
+and finding solutions."
+<br>
+저의 가치관은 "문제를 생각하고,
+문제를 해결하기 위한 해결책을 구하자." 입니다.</p>
+
+
 #### Pioneer - 개척자
 <p>하나의 목표를 달성하려 할 때, 눈앞의 해법을 보지 않고 현장의 시작부터 연구하여 새로운 길을 찾는것을 목표로 합니다.
 <br> When trying to achieve a single goal, we aim to find a new way by studying the beginning of the field 
