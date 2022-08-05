@@ -21,10 +21,6 @@ without looking at the solution in front of us.</p>
 <hr>
 
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=PJO2004&show_icons=true&theme=radical)
-
-- 백준
-
-
 [![Solved.ac
 smokinggun](http://mazassumnida.wtf/api/v2/generate_badge?boj=smokinggun)](https://solved.ac/smokinggun)
 
