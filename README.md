@@ -4,17 +4,14 @@
 ### 👉 About-Me
 #### 좀더 많은것을 배우고 정확하게 배우고 싶어하는 개발자 입니다 🔥
 
-<p>개척자 <br> 하나의 목표를 달성하려 할 때, 눈앞의 해법을 보지 않고 현장의 시작부터 연구하여 새로운 길을 찾는것을 목표로 합니다.
-<br>
-Pioneer <br> When trying to achieve a single goal, we aim to find a new way by studying the beginning of the field 
-without looking at the solution in front of us.
-</p>
+#### Pioneer - 개척자
+<p>하나의 목표를 달성하려 할 때, 눈앞의 해법을 보지 않고 현장의 시작부터 연구하여 새로운 길을 찾는것을 목표로 합니다.
+<br> When trying to achieve a single goal, we aim to find a new way by studying the beginning of the field 
+without looking at the solution in front of us.</p>
 
-#### researcher(연구원)
+#### researcher - 연구원
 <p>흥미롭고 해결하고 싶은 문제가 있으면 끊임없이 고민하고 해결책을 제시합니다.
-<br> If there is a problem 
-that is interesting and you want to solve, we constantly think about it and come up with a solution.
-</p>
+<br> If there is a problem that is interesting and you want to solve, we constantly think about it and come up with a solution.</p>
 
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=PJO2004&show_icons=true&theme=radical)
 
