@@ -1,6 +1,6 @@
 # Hello, I'm JeongWon 🖥
 
-#### - Think and Sloution
+### - Think and Sloution
 <p>My motto is "Thinking about problems, 
 and finding solutions."
 <br>
