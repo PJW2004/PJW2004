@@ -1,4 +1,4 @@
-### Hi, my name is **Jungwon**
+### Hi, my name is **Jungwon Park**
 
 #### I study in backend & AI [("information about me")](#)
 
