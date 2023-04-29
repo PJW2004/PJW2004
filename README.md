@@ -1,6 +1,6 @@
 ### Hi, my name is **Jungwon**
 
-#### 백엔드와 인공지능을 공부하고 있습니다.
+#### I study in backend & AI
 
 ##### ["more information about me"](#)
 
