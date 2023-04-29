@@ -1,8 +1,8 @@
 ### Hi, my name is **Jungwon**
 
-#### I study in backend & AI
+<hr>
 
-##### ["more information about me"](#)
+#### I study in backend & AI ["more information about me"](#)
 
 ##### 🏢 Career
 
