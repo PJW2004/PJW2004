@@ -2,7 +2,7 @@
 
 <hr>
 
-#### I study in backend & AI ["more information about me"](#)
+#### I study in backend & AI [("information about me")](#)
 
 ##### 🏢 Career
 
