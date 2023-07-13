@@ -1,6 +1,6 @@
 ### Hi, my name is **Jungwon Park**
 
-#### I study in backend & AI [("information about me")](https://pjo2004.github.io/)
+#### I study in backend & AI [("information about me")](https://pjw2004.github.io/)
 
 <hr>
 
